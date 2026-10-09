@@ -1,0 +1,6 @@
+{
+  "name": "SmartLearn",
+  "description": "Student-to-student peer learning platform where students share notes, PDFs, and educational videos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
